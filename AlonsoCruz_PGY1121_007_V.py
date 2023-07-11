@@ -12,8 +12,6 @@ departamentos_disponibles = [[True] * departamentos_por_piso for _ in range(piso
 precios = {"A": 3800, "B": 3000, "C": 2800, "D": 3500}
 compradores = []
 
-# Funciones 
-
 def mostrar_menu():
 
 
